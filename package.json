@@ -1,0 +1,25 @@
+{
+  "name": "ai-coinbase",
+  "version": "1.0.0",
+  "description": "A Coinbase inspired crypto dashboard with AI integration for trend analysis, market insights, and portfolio recommendations, revolutionizing the future of crypto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alzarakhan/Ai-Coinbase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alzarakhan/Ai-Coinbase/issues"
+  },
+  "homepage": "https://github.com/alzarakhan/Ai-Coinbase#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^6.6.0",
+    "socket.io": "^4.8.1"
+  }
+}
